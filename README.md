@@ -19,6 +19,7 @@ AlgoSpear - Stacks Visualization is an interactive tool designed to demonstrate 
 ## Technologies Used
 - HTML
 - CSS
+- Bootstrap
 - JavaScript (Vanilla JS)
 - Driver.js (Tour Guide Library)
 
