@@ -40,11 +40,11 @@ AlgoSpear - Stacks Visualization is an interactive tool designed to demonstrate 
 7. Hover over the `?` icons to view detailed explanations.
 8. Click the **Start Tour** button to activate the Driver.js guided tour.
 
-## Preview
-![Stacks Visualization](image.png)
-
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues to suggest improvements.
 
 ## License
 This project is licensed under the MIT License.
+
+## Developer
+Mark Anthony G. Tomas
